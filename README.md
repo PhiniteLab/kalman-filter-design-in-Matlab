@@ -1,10 +1,10 @@
 # kalman-filter-design-in-Matlab
 
-KALMAN FILTER DESIGN IN CPP
+KALMAN FILTER DESIGN IN MATLAB SCRIPT/SIMULINK
 
  Solver design especially in the computer simulation is an important matter to emulate any physical dynamical system. In order to understand the underlying mechanism of this thing, there should be a model needs to be developed in terms of differential equation and matrices equation.
  
- In this study, system dynamic library is developed in order to simulate any kinds of systems with respect to the given time parameters and system models. CPP programming language is also supported in this github repository!
+ In this study, system dynamic library is developed in order to simulate any kinds of systems with respect to the given time parameters and system models.
  
  Also, the main course of this github repository includes the bare metal kalman filter design in Matlab.
  
